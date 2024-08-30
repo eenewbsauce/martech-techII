@@ -1,5 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
+
+import { Calculator } from './components/calculator/calculator'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
           <li>It should default to addition</li>
           <li>It can also perform subtraction</li>
         </ul>
+        <Calculator />
       </header>
     </div>
   );
