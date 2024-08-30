@@ -9,7 +9,7 @@ function App() {
           The customer has asked us to create a simplified calculator app.
         </p>
         <ul className="App-instructions">
-          <li>It should take two numbers (defaulted to 0) and display the mathematical result</li>
+          <li>It should take two numbers and display the mathematical result</li>
           <li>It should default to addition</li>
           <li>It can also perform subtraction</li>
         </ul>
